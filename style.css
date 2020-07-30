@@ -1,0 +1,57 @@
+.head{
+  height: 400px;
+  width: 100%;
+  background: lightgreen;
+}
+.log{
+    height: 40px;
+    width: 80px;
+}
+
+span{
+    color: green;
+}
+.photo{
+    height: 300px;
+    width: 600px;
+}
+.second{
+     padding: 40px;
+}
+.icon{
+    height: 120px;
+    width: 120px;
+    
+}
+.course{
+    text-align: center;
+}
+
+.me{
+    height: 100px;
+    width: 100px;
+}
+
+.fourth{
+    height: 250px;
+    width: 100%;
+    padding: 40px;
+}
+.cen{
+    text-align: center;
+    padding: 20px;
+}
+
+.five{
+    height: 200px;
+    width: 100%;
+    background: black;
+    color: white;
+    padding: 40px;
+    
+    
+}
+.cder{
+    height: 20px;
+    width: 20px;
+}
